@@ -13,5 +13,6 @@ be mean. I recognize that my code may look amateurish but I am willing to
 learn.
 
 Exercises:
-- Tic-tac-toe
-- Cows and Bulls Guessing Game
+- 001: Tic-tac-toe
+- 002: Cows and Bulls Guessing Game
+- 003: Too High or Too Low
