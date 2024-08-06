@@ -14,3 +14,4 @@ learn.
 
 Exercises:
 - Tic-tac-toe
+- Cows and Bulls Guessing Game
